@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as ps
 import plotly.graph_objs as go
 from plotly.offline import iplot
 
